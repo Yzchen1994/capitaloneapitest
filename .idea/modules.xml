@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CaptitalOneApi.iml" filepath="$PROJECT_DIR$/CaptitalOneApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capitaloneapitest.iml" filepath="$PROJECT_DIR$/capitaloneapitest.iml" />
     </modules>
   </component>
 </project>
